@@ -8,6 +8,11 @@ Lab2 Output :
 <img width="1143" height="373" alt="image" src="https://github.com/user-attachments/assets/5ae5b4db-a58d-408f-9b3a-a80361b96792" />
 
 
+Lab3 Output  :
+
+<img width="1106" height="558" alt="image" src="https://github.com/user-attachments/assets/2241eafb-0bc6-4ade-b71f-9fa7177506dd" />
+
+
 Lab4 Output  :
 
 <img width="1084" height="352" alt="Screenshot 2026-08-13 215851" src="https://github.com/user-attachments/assets/f47998db-2e6d-4cfb-98b5-183337b20eae" />
