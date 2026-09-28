@@ -23,3 +23,6 @@ Lab5 Output  :
 <img width="1091" height="443" alt="Screenshot 2026-08-13 220833" src="https://github.com/user-attachments/assets/6e540767-b76c-46b1-8989-53971d288b25" />
 
 
+Lab6 Output :
+
+<img width="1056" height="215" alt="image" src="https://github.com/user-attachments/assets/ee6765cb-adcb-44a2-9e81-441b4dde060e" />
