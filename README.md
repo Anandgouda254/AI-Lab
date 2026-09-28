@@ -26,3 +26,11 @@ Lab5 Output  :
 Lab6 Output :
 
 <img width="1056" height="215" alt="image" src="https://github.com/user-attachments/assets/ee6765cb-adcb-44a2-9e81-441b4dde060e" />
+
+
+Lab7 Output :
+<img width="1058" height="86" alt="image" src="https://github.com/user-attachments/assets/55141e50-2586-49c9-a135-af3079ae0932" />
+
+
+
+
