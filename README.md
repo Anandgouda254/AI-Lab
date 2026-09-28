@@ -29,7 +29,20 @@ Lab6 Output :
 
 
 Lab7 Output :
+
 <img width="1058" height="86" alt="image" src="https://github.com/user-attachments/assets/55141e50-2586-49c9-a135-af3079ae0932" />
+
+
+
+Lab8 Output :
+
+<img width="1052" height="218" alt="image" src="https://github.com/user-attachments/assets/bca6c3ae-ab0a-44e1-83cf-0cc7249f31cb" />
+
+
+Lab9 Output :
+
+<img width="1073" height="87" alt="image" src="https://github.com/user-attachments/assets/069b57b1-a930-42ea-856a-f2dae72c3da1" />
+
 
 
 
