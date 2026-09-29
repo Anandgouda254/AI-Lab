@@ -44,6 +44,9 @@ Lab9 Output :
 <img width="1073" height="87" alt="image" src="https://github.com/user-attachments/assets/069b57b1-a930-42ea-856a-f2dae72c3da1" />
 
 
+Lab10 Output :
+
+<img width="935" height="126" alt="image" src="https://github.com/user-attachments/assets/a1ef9a12-7f69-40ad-8290-c40f30d4d4cd" />
 
 
 
